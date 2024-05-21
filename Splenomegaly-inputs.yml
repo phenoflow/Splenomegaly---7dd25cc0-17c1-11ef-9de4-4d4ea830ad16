@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/congenital-splenomegaly---primary.py
+inputModule3:
+  class: File
+  path: python/splenomegaly-spleen---primary.py
+inputModule4:
+  class: File
+  path: python/congestive-splenomegaly---primary.py
+inputModule5:
+  class: File
+  path: python/splenomegaly-hypersplenism---primary.py
+inputModule6:
+  class: File
+  path: python/hepatosplenomegaly---primary.py
+inputModule7:
+  class: File
+  path: python/splenomegaly---primary.py
+inputModule8:
+  class: File
+  path: python/splenomegaly-nos---primary.py
+inputModule9:
+  class: File
+  path: python/splenomegaly-classified---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
